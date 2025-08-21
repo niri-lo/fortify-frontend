@@ -13,7 +13,7 @@ import NotFound from './pages/NotFound';
 function App() {
   return (
     <Routes>
-      {/* Página de inicio */}
+      {/* Página de inicios */}
       <Route path="/" element={<Index />} />
 
       {/* Rutas específicas para Figma plugin */}

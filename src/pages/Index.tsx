@@ -146,7 +146,7 @@ const Index = () => {
                   </CardContent>
                 </Card>
 
-                {/* HU-FE-015: 2FA Login */}
+                {/* HU-FE-015: 2FA Logins */}
                 <Card
                   className="shadow-card hover:shadow-elevation transition-all duration-300 cursor-pointer"
                   onClick={() => navigate("/login-2fa")}
